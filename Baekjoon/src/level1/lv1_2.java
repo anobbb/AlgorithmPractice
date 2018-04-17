@@ -1,3 +1,5 @@
+package level1;
+
 import java.util.*;
 
 public class lv1_2 {
